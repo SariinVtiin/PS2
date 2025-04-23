@@ -1,0 +1,116 @@
+# PlayStation 2: Informações Completas
+
+## História e Lançamento
+
+O PlayStation 2 (oficialmente abreviado como PS2) é um console de videogame produzido pela Sony Computer Entertainment (SCE). Foi lançado no dia 4 de março de 2000 no Japão, no dia 26 de outubro na América do Norte, e no dia 24 de novembro na Europa. No Brasil, chegou oficialmente apenas em 18 de novembro de 2002 (e oficialmente reconhecido pela Sony em 15 de outubro de 2009).
+
+O PS2 é o sucessor do PlayStation original e é um console de sexta geração, que competiu com o Dreamcast da Sega, o GameCube da Nintendo e o Xbox da Microsoft. Devido à sua imensa popularidade em todo o mundo, o console e seus jogos continuaram a ser fabricados mesmo após o lançamento do seu sucessor, o PlayStation 3.
+
+A Sony só encerrou oficialmente a produção do PlayStation 2 em 28 de dezembro de 2012 no Japão e em 4 de janeiro de 2013 no restante do mundo, mesmo ano de lançamento do PlayStation 4. Isso significa que o PS2 teve um impressionante ciclo de vida de quase 13 anos, um dos mais longos na história dos videogames.
+
+## Números e Recordes
+
+O PlayStation 2 é o console mais vendido de todos os tempos, com números impressionantes:
+
+Durante seus quase 13 anos de vida, foram vendidos mais de 157 milhões de consoles em todo o mundo. Em 2024, a Sony oficializou que o número final de vendas do console atingiu aproximadamente 160 milhões de unidades.
+
+Em 29 de novembro de 2005, o PlayStation 2 tornou-se o console de videogame mais rapidamente comercializado, por chegar a 100 milhões de unidades vendidas, realizando o feito no prazo de 5 anos e 9 meses de seu lançamento. Este recorde foi mais rápido que seu antecessor, o PlayStation original, que levou 9 anos e 6 meses para atingir a mesma marca.
+
+O Guinness World Records reconheceu a marca PlayStation como a de consoles domésticos mais vendida do mundo, com mais de 450 milhões de unidades vendidas desde 1994, ano do lançamento do primeiro console.
+
+## Especificações Técnicas
+
+O PlayStation 2 apresentou avanços tecnológicos significativos para a época:
+
+- **CPU**: Emotion Engine, 128 bits, 294,912 MHz (299 MHz após atualização)
+- **Núcleo de CPU**: CPU PlayStation+; 33 MHz ou 36 MHz; 32MB-IOP
+- **GPU**: Graphics Synthesizer, 4 MB VRAM, 147,456 MHz, 6,2 GFLOPS
+- **RAM**: 32 MB
+- **Mídia**: CD/DVD
+- **Áudio**: Som Surround 3D, Dolby Pro Logic II até 48 KHz de saída
+
+O Fill Rate da Playstation 2 era de 3.36 Gpixels, algo que foi considerado extremamente rápido para a época - mais rápido até mesmo que na PS3 em alguns aspectos específicos. Isso permitia que os desenvolvedores utilizassem grandes quantidades de texturas com eficiência.
+
+A Sony forneceu hardware e software para ajudar no desenvolvimento de jogos. No lado do software, havia o PlayStation 2 SDK que incluía o toolchain do Emotion Engine: um conjunto de compiladores, assemblers, linkers, e debuggers C e C++ usados para controlar cada elemento do EE.
+
+## Características Inovadoras
+
+O PS2 trouxe diversas inovações que o diferenciaram da concorrência:
+
+1. **Reprodutor de DVD**: Além de ser um console muito poderoso para sua época, o PS2 rodava DVDs como uma de suas principais funcionalidades – aliás, DVD também era a mídia utilizada nos jogos. Isso o tornou um centro de entretenimento completo.
+
+2. **Retrocompatibilidade**: O PS2 inovou ao permitir que os jogadores rodassem jogos do primeiro PlayStation diretamente no console. Além disso, ele também era compatível com os controles e memory cards do PS1.
+
+3. **Design Versátil**: Uma das características mais inovadoras do design do PS2 é que ele pode ser posicionado em pé ou deitado, graças ao seu suporte interno de plástico removível.
+
+4. **Recursos de Rede**: O PlayStation 2 foi um dos primeiros consoles a implementar recursos online, embora inicialmente limitados. A Sony decide criar o periférico PlayStation Network Adapter no final de 2002, enquanto o jogo SOCOM: U.S. Navy SEALs torna-se o primeiro a ter suporte a gameplay online. Por possuir uma saída para a conexão de um HD interno, o Network Adapter possibilitava aos usuários baixar expansões, mapas, arquivos e conteúdos adicionais para certos jogos.
+
+5. **Possibilidade de Rodar Linux**: Além de todos esses jogos com seus gráficos sofisticados, a Sony lançou uma distribuição Linux baseada no 'Kondara' (que por sua vez é baseada no Red Hat 6) disponível em dois DVDs junto com um adaptador VGA, teclado e mouse USB, e alguns manuais de desenvolvedor.
+
+## Jogos Mais Vendidos e Importantes
+
+O PlayStation 2 possuía uma biblioteca impressionante com mais de 4.000 jogos. Aqui estão alguns dos mais vendidos e importantes:
+
+1. **Grand Theft Auto: San Andreas** - GTA San Andreas é o grande arrasa-quarteirões da Sony e também da Rockstar. Nenhum outro jogo chegou perto do Grand Theft Auto San Andreas em termos de vendas no PS2, ultrapassando a marca de 17 milhões de cópias vendidas no mundo todo.
+
+2. **Gran Turismo 3: A-Spec** e **Gran Turismo 4** - A série Gran Turismo é, sem dúvidas, uma das mais populares e adoradas do PlayStation 2, e não é a toa que dois de seus títulos ocupem o 3º e o 2º lugar da lista. Gran Turismo 3 vendeu aproximadamente 14,89 milhões de unidades.
+
+3. **Grand Theft Auto: Vice City** - GTA Vice City expandiu a série e focou em uma trama no melhor estilo Scarface, clássico cinematográfico de Brian De Palma, atingindo quase 10 milhões de unidades vendidas.
+
+4. **Final Fantasy X** - Lançado na temporada de férias de 2001, Final Fantasy X foi o primeiro FF a chegar ao PlayStation 2 — e foi sucesso de crítica, vendendo mais de 8,5 milhões de cópias.
+
+5. **Grand Theft Auto III** - GTA III revolucionou não apenas a série da Rockstar, mas também a indústria de jogos por conta de seu mundo aberto bastante dinâmico — se tornando um dos pioneiros nesse quesito. O terceiro título da franquia vendeu mais de 8,1 milhões de cópias no PlayStation 2.
+
+6. **Metal Gear Solid 2: Sons of Liberty** - A franquia Metal Gear Solid, criada por Hideo Kojima, foi um tremendo sucesso nos consoles da Sony. O segundo game, que é considerado por muitos como o melhor da saga, vendeu mais de 7 milhões de unidades no PlayStation 2.
+
+7. **Tekken 5** - Tekken 5 é um dos jogos de luta mais elogiados da Bandai Namco, não só pelo seu grande elenco de lutadores, mas também pela sua qualidade gráfica e técnica para a época. O game vendeu mais de 6 milhões de unidades pelo mundo.
+
+8. **Kingdom Hearts** - Kingdom Hearts é um jogo de RPG de ação, que mescla personagens originais com heróis da saga Final Fantasy e também de mundos da Disney, como Aladdin, O Rei Leão e A Pequena Sereia. Vendeu aproximadamente 5,9 milhões de unidades.
+
+Outros jogos importantes incluem:
+
+- **God of War** e **God of War II** - Uma das principais franquias da Sony nascidas no PlayStation 2, God of War apresentou o raivoso Kratos em sua busca por vingança contra Ares, o deus grego da Guerra. Gráficos avançados para a época, violência e um sistema de combate empolgante marcaram essa forte reinvenção da mitologia grega.
+
+- **Resident Evil 4** - Reinventando a série com uma nova perspectiva, a saga de Leon para resgatar a filha do presidente americano de uma vila povoada por infectados mantém o clima de tensão e alerta do início ao fim, numa mistura de terror e ação que a série ainda pena para atingir até hoje.
+
+- **Shadow of the Colossus** - Considerada uma obra-prima da história dos videogames, a aventura solitária de um guerreiro contra os 13 colossos de uma terra vazia e quase sem vida para trazer seu amor de volta à vida impressiona até hoje pela jogabilidade que instiga o jogador a descobrir como lutar contra cada um dos gigantescos monstros.
+
+## Acessórios Inovadores
+
+O PS2 introduziu vários acessórios inovadores que expandiram as possibilidades de jogabilidade:
+
+1. **EyeToy** - A EyeToy foi a primeira câmera da Sony para seus videogames modernos. Muito antes da PS Eye e da atual PlayStation Camera, a EyeToy foi lançada no PS2 como uma câmera capaz de se comunicar com jogos de "realidade virtual" e colocar o jogador dentro desses mundos. Este acessório ajudou a pavimentar o caminho para tecnologias posteriores como o Nintendo Wii, Kinect e VR.
+
+2. **Memory Card** - Um acessório essencial para o PS2, disponível em 8MB. Os primeiros modelos lançados têm uma curiosidade bem relevante. Vendidos somente no Japão por um certo tempo, as versões SCPH-10000, SCPH-15000 e SCPH-18000 não possuíam suporte nativo às mídias em DVD. Um programa que era instalado no Memory Card através de um CD que acompanhava o hardware permitia a reprodução da mais recente tecnologia em discos da época.
+
+3. **Network Adapter** - A Sony decide criar o periférico PlayStation Network Adapter no final de 2002, enquanto o jogo SOCOM: U.S. Navy SEALs torna-se o primeiro a ter suporte a gameplay online. Este adaptador permitia conexões online e a instalação de um disco rígido interno.
+
+4. **Controles Especializados** - A GunCon era uma arma com sensor de movimento e mira especial para a TV e voltada para a série de jogos Time Crisis, muito popular nos fliperamas e também no PS2. Outros controles especiais incluíam controles em forma de espada, serra elétrica, e instrumentos musicais para jogos específicos.
+
+## Curiosidades
+
+1. **Origem do Design** - O Falcon 030 Microbox, da Atari, foi a principal inspiração dos designers para que o visual do PlayStation 2 (FAT) fosse escolhido. O protótipo agradou e a Sony comprou os direitos para utilizá-lo em seu console.
+
+2. **Torre de Luz na Tela Inicial** - A tela inicial do PlayStation 2 mostra uma série de torres de luz que parece ser sempre diferente, certo? Bom, elas são baseadas na quantidade de jogos que você jogou e no tamanho do arquivo salvo no seu Memory Card, então, quanto mais jogos você jogava, mais torres apareciam por lá.
+
+3. **Client Netflix Exclusivo para o Brasil** - Você sabia que o PS2 também teve um cliente de Netflix? E você sabia que ele era exclusivo daqui do Brasil? A empresa aproveitou a popularidade do console por aqui para lançar um aplicativo para o console em DVD e tentar assim atrair novos assinantes para a plataforma.
+
+4. **Suporte a Alta Definição** - Geralmente, a resolução usada no console era 480p, mas o console da Sony tinha suporte a resoluções de alta definição, como 720p e 1080i, só foi uma pena que elas raramente foram usado pelos desenvolvedores da época, como em Valkyrie Profile 2 e Tourist Trophy.
+
+5. **O PSX** - Em 2003, a Sony lançou no Japão uma versão especial do PS2 chamada PSX. Esse modelo era um verdadeiro centro multimídia, com um HD interno, gravador de DVD e até suporte para transferências de arquivos para o PSP. Apesar dessas funcionalidades avançadas, o PSX acabou sendo um fracasso de vendas.
+
+6. **Uso para CGI em Filmes** - Final Fantasy: The Spirits Within, um famoso filme realizado em 2001, foi um dos expoentes máximos do CGI durante muitos anos. E todo ele foi realizado usando uma GSCUBE, uma máquina especializada criada pela Sony e constituída por 16 Playstations 2.
+
+7. **Desenvolvimento em Linux** - O PS2 era um console extremamente poderoso para a época, e uma das grandes vantagens dele era ter seu desenvolvimento de jogos feito dentro do Linux, o que facilitava em muito a vida de quem queria criar um jogo para ele.
+
+## Legado
+
+O PlayStation 2 deixou um legado indelével na indústria de videogames. Seu sucesso comercial sem precedentes, sua vasta biblioteca de jogos e suas inovações técnicas estabeleceram um novo padrão para os consoles subsequentes.
+
+Alguns grandes títulos que estrelaram no PS2 continuam vivos no PS4 e PS5 em forma de remakes, remasterizações ou novos jogos, como God of War, Devil May Cry, Monster Hunter, GTA San Andreas e Final Fantasy XII, apenas para começar.
+
+O PlayStation 2 também revolucionou a forma como vemos os consoles de videogame, transformando-os de simples máquinas de jogos em centros de entretenimento multimídia. Sua capacidade de reproduzir DVDs foi um grande atrativo para os consumidores e ajudou a popularizar o formato.
+
+Além disso, Em setembro do ano de 2024, o console também foi registrado como Patrimônio de Tecnologia Futura do Japão, prêmio que tem como missão destacar proeminentes inovações científicas e tecnológicas que emergem do país.
+
+Mesmo tendo sido descontinuado há mais de uma década, o PlayStation 2 continua a ser amado por milhões de jogadores ao redor do mundo, que ainda apreciam sua biblioteca de jogos e seu lugar histórico no desenvolvimento dos videogames.

@@ -1,0 +1,82 @@
+Categoria,Subcategoria,Informação
+Informações Gerais,Nome Oficial,PlayStation 2 (PS2)
+Informações Gerais,Fabricante,Sony Computer Entertainment (SCE)
+Informações Gerais,Geração,Sexta geração de consoles
+Informações Gerais,Concorrentes,Dreamcast (Sega), GameCube (Nintendo) e Xbox (Microsoft)
+Informações Gerais,Data de Lançamento Japão,4 de março de 2000
+Informações Gerais,Data de Lançamento América do Norte,26 de outubro de 2000
+Informações Gerais,Data de Lançamento Europa,24 de novembro de 2000
+Informações Gerais,Data de Lançamento Brasil,18 de novembro de 2002 (não oficial) / 15 de outubro de 2009 (oficial)
+Informações Gerais,Data de Descontinuação,30 de dezembro de 2012 (Japão)
+Informações Gerais,Tempo de Produção,Aproximadamente 13 anos (2000-2013)
+Informações Gerais,Preço de Lançamento no Brasil,R$ 1.499 (2004) / R$ 799 (lançamento oficial em 2009)
+Informações Gerais,Sucessor,PlayStation 3
+Informações Gerais,Predecessor,PlayStation (PS1)
+
+Especificações Técnicas,CPU,Emotion Engine @ 294.912 MHz (299 MHz em versões mais recentes)
+Especificações Técnicas,GPU,Graphics Synthesizer @ 147 MHz
+Especificações Técnicas,Memória Principal,32 MB RDRAM
+Especificações Técnicas,Memória de Vídeo,4 MB eDRAM
+Especificações Técnicas,Mídia de Armazenamento,DVD-ROM / CD-ROM
+Especificações Técnicas,Resolução de Vídeo,Até 1080i em alguns jogos
+Especificações Técnicas,Entrada/Saída,2 portas para controle, 2 portas para Memory Card, Saída AV Multi, Expansion Bay (nos modelos Fat)
+Especificações Técnicas,Conectividade,Adaptador de rede separado no modelo original (Fat) / integrado no modelo Slim
+Especificações Técnicas,Compatibilidade,Compatível com jogos do PlayStation 1
+
+Modelos e Versões,Modelo Original (Fat),SCPH-10000 até SCPH-500xx (diversos submodelos com diferentes características)
+Modelos e Versões,Modelo Slim,SCPH-700xx e posteriores (lançado em 2004)
+Modelos e Versões,PSX,Modelo híbrido com DVR lançado apenas no Japão em 2003
+Modelos e Versões,Total de Versões,Do V0 ao V18 (V0-V11 Fat / V12-V18 Slim)
+
+Vendas e Popularidade,Unidades Vendidas,Mais de 155 milhões (console mais vendido da história)
+Vendas e Popularidade,Jogos Vendidos,Aproximadamente 1.5 bilhão de cópias
+Vendas e Popularidade,Posição no Brasil em 2012,55% do mercado de consoles (segundo pesquisa)
+Vendas e Popularidade,Popularidade no Brasil,Considerado o terceiro console mais popular no Brasil mesmo após várias gerações
+
+Jogos,Biblioteca Total,Mais de 4.000 títulos
+Jogos,Jogo Mais Vendido,Grand Theft Auto: San Andreas (17.33 milhões de cópias)
+Jogos,Último Jogo Oficial,Pro Evolution Soccer 2014 (lançado em 2013)
+Jogos,Jogo Mais Popular no Brasil,Pro Evolution Soccer/Winning Eleven
+Jogos,Séries Nascidas no PS2,"God of War, Devil May Cry, Ratchet & Clank, Kingdom Hearts, Monster Hunter"
+
+Melhores Jogos,RPG,"Final Fantasy X, Final Fantasy XII, Kingdom Hearts"
+Melhores Jogos,Ação/Aventura,"God of War, God of War II, Shadow of the Colossus, GTA: San Andreas, GTA: Vice City, Devil May Cry"
+Melhores Jogos,Corrida,"Gran Turismo 3, Gran Turismo 4, Burnout 3: Takedown"
+Melhores Jogos,Stealth,"Metal Gear Solid 2: Sons of Liberty, Metal Gear Solid 3: Snake Eater"
+Melhores Jogos,Esportes,"Pro Evolution Soccer (séries), FIFA (séries), Tony Hawk's Pro Skater 3"
+Melhores Jogos,Luta,"Tekken 5, Soul Calibur III, Virtua Fighter 4"
+Melhores Jogos,Horror,"Silent Hill 2, Resident Evil 4"
+Melhores Jogos,Outros Clássicos,"Bully, ICO, Guitar Hero III: Legends of Rock, Prince of Persia: The Sands of Time"
+
+Pirataria no Brasil,Início,"A pirataria do PS2 começou aproximadamente 1-2 anos após o lançamento com o surgimento de chips de desbloqueio"
+Pirataria no Brasil,Modchips Populares,"Messiah, Messiah 2, Matrix, Thunder, Crystal, Libertador, Mars, Ghost2, Magic, entre outros"
+Pirataria no Brasil,Características da Pirataria,"Preços baixos (5 jogos por R$ 10-15), grande disponibilidade, fácil acesso a títulos importados"
+Pirataria no Brasil,Mods Populares,"Bomba Patch (versão modificada de Pro Evolution Soccer), GTA Rio de Janeiro, GTA BOPE, Guitar Hero Brazucas"
+Pirataria no Brasil,Impacto,"Aumentou a base de usuários, mas reduziu vendas oficiais. Sony ganhou ações judiciais contra fabricantes de chips"
+Pirataria no Brasil,Motivos da Prevalência,"Altos preços dos jogos originais, falta de distribuição oficial, popularização da internet banda larga no país"
+Pirataria no Brasil,Métodos de Desbloqueio,"Via hardware (modchip), via software (exploit), via disco de swap"
+Pirataria no Brasil,Curiosidade de 2020,"Em 2020, um modder descobriu como rodar jogos piratas sem modificar o hardware do PS2"
+
+Curiosidades,Recordes,"Console mais vendido da história com 155 milhões de unidades"
+Curiosidades,Design,"O design do PS2 Fat foi inspirado no Falcon 030 Microbox da Atari de 1993"
+Curiosidades,Logo,"As cores do logo representam: azul para a Terra e preto para o espaço"
+Curiosidades,Tela Inicial,"As torres na tela inicial são baseadas na quantidade de jogos salvos no Memory Card"
+Curiosidades,Posicionamento,"O PS2 podia ser usado tanto na horizontal quanto na vertical, uma novidade na época"
+Curiosidades,DVD Player,"O PS2 era mais barato que um DVD player na época do lançamento, impulsionando suas vendas"
+Curiosidades,Linux,"Era possível transformar o PS2 em um computador com o kit Linux para PlayStation 2"
+Curiosidades,Netflix,"O PS2 teve um aplicativo da Netflix exclusivo para o Brasil, acessado via DVD"
+Curiosidades,Rumor,"Houve rumores de que Saddam Hussein estaria comprando PS2 para uso militar, causando um embargo temporário"
+Curiosidades,HD,"Alguns jogos do PS2 suportavam resolução HD (720p e 1080i), como Gran Turismo 4"
+Curiosidades,Servidores Online,"Os servidores online do PS2 só foram desligados em 2016"
+Curiosidades,Produção no Brasil,"O PS2 começou a ser fabricado na Zona Franca de Manaus em 2008"
+Curiosidades,MGS3 Curiosidade,"Em Metal Gear Solid 3, se o jogador deixar o jogo parado por muito tempo durante a luta contra The End, o chefe morre de velhice"
+Curiosidades,Atualizações,"O PS2 deveria ter um sistema de atualizações via memory card, mas a Sony abandonou a ideia"
+
+Acessórios,Controle,"DualShock 2, versão melhorada do controle do PS1 com botões analógicos"
+Acessórios,Armazenamento,"Memory Card (8 MB oficial, com versões de até 128 MB não oficiais)"
+Acessórios,Multijogador,"Multitap (permitia conectar até 8 controles usando duas portas)"
+Acessórios,Câmera,"EyeToy (câmera com sensor de movimento)"
+Acessórios,Rede,"Network Adapter (vendido separadamente no modelo original)"
+Acessórios,Armazenamento Expandido,"HDD interno (40GB, conectado via Expansion Bay no modelo Fat)"
+Acessórios,Periféricos de Jogo,"Volantes, microfones, Buzz Buzzers, tapetes de dança (DDR)"
+Acessórios,Computação,"Linux Kit (transformava o PS2 em um computador)"
