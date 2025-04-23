@@ -1426,7 +1426,7 @@ ps2_games_database = [
         "trivia": "Dirigido por Suda51, conhecido por jogos com narrativas não-convencionais como Killer7.",
         "tips_easter_eggs": "Filme eventos específicos para aumentar seu rank de jornalismo e desbloquear finais melhores."
     },
-{
+    {
        "title": "Drakengard",
        "genre": "Action RPG",
        "year": 2003,
@@ -1438,7 +1438,137 @@ ps2_games_database = [
        "gameplay_mechanics": "Combate hack and slash em solo, batalhas aéreas com dragão, múltiplos finais",
        "trivia": "Drakengard tem uma conexão direta com NieR, já que um de seus finais leva aos eventos desse jogo.",
        "tips_easter_eggs": "Complete todas as armas para desbloquear o caminho para o final E, o mais difícil e bizarro."
-   }
+   },
+    {
+        "title": "Rule of Rose",
+        "genre": "Survival Horror / Aventura",
+        "year": 2006,
+        "developer": "Punchline",
+        "publisher": "Agetec",
+        "rating": 55,
+        "description": "Um jogo de terror psicológico onde a protagonista enfrenta eventos misteriosos e brutais em um internato repleto de segredos sombrios.",
+        "characters": "Jennifer, os 'amigos' do internato",
+        "gameplay_mechanics": "Exploração, resolução de puzzles e momentos intensos de terror com foco narrativo.",
+        "trivia": "Apesar da recepção polêmica, o jogo adquiriu status cult entre os fãs do gênero.",
+        "tips_easter_eggs": "Procure por documentos escondidos em cantos obscuros do internato para revelar segredos extras."
+    },
+    {
+        "title": "Haunting Ground",
+        "genre": "Survival Horror",
+        "year": 2005,
+        "developer": "Mati Games",
+        "publisher": "Capcom",
+        "rating": 60,
+        "description": "Uma jovem luta para sobreviver enquanto foge de perigos em um castelo sinistro repleto de ambientes opressivos.",
+        "characters": "Fiona Belli e os ameaçadores habitantes do castelo",
+        "gameplay_mechanics": "Fuga, resolução de puzzles e interações tensas com inimigos, criando uma atmosfera angustiante.",
+        "trivia": "Também conhecido como Demento em algumas regiões, o jogo foi elogiado pela atmosfera, mas não alcançou sucesso comercial.",
+        "tips_easter_eggs": "Explore salas abandonadas para encontrar mensagens e cenas extras que aprofundam o enredo."
+    },
+    {
+        "title": "BMX XXX",
+        "genre": "Esporte / Ação",
+        "year": 2002,
+        "developer": "High Voltage Software",
+        "publisher": "Acclaim Entertainment",
+        "rating": 40,
+        "description": "Um título de BMX que se destaca pelo humor adulto e conteúdo polêmico, mas acabou dividindo a crítica e o público.",
+        "characters": "Diversos pilotos e personagens com personalidade exagerada",
+        "gameplay_mechanics": "Realização de manobras radicais e desafios em pistas com obstáculos, mesclando ação com humor irreverente.",
+        "trivia": "A temática adulta e o conteúdo controverso limitaram seu apelo, prejudicando seu desempenho comercial.",
+        "tips_easter_eggs": "Complete desafios inusitados para desbloquear roupas e modos de jogo secretos."
+    },
+    {
+        "title": "Advent Rising",
+        "genre": "Ação / Aventura / Sci-Fi",
+        "year": 2005,
+        "developer": "Radical Entertainment",
+        "publisher": "Vivendi Universal Games",
+        "rating": 50,
+        "description": "Um ambicioso jogo de ação e aventura com uma narrativa épica que não conseguiu conquistar o público por falhas mecânicas e de desempenho.",
+        "characters": "Protagonista com poderes enigmáticos, aliados e inimigos alienígenas",
+        "gameplay_mechanics": "Combate em terceira pessoa, cenas de ação cinematográficas e resolução de puzzles intergalácticos.",
+        "trivia": "Grandes expectativas foram frustradas por críticas relacionadas a problemas de roteiro e jogabilidade.",
+        "tips_easter_eggs": "Explore áreas fora da rota principal para encontrar mensagens escondidas dos desenvolvedores."
+    },
+    {
+        "title": "Viking: Battle for Asgard",
+        "genre": "Ação / Beat 'em up",
+        "year": 2008,
+        "developer": "DreamForge Intertainment",
+        "publisher": "Midway Games",
+        "rating": 45,
+        "description": "Ambientado na era dos vikings, o jogo traz combates intensos com inspiração na mitologia nórdica, mas não conseguiu se firmar no mercado competitivo do PS2.",
+        "characters": "Guerreiros vikings e deuses da mitologia nórdica",
+        "gameplay_mechanics": "Lutas corpo a corpo, combos e exploração de cenários inspirados em mitos e lendas.",
+        "trivia": "Embora inspirado em temas históricos ricos, foi ofuscado por títulos com maior orçamento e visibilidade na época.",
+        "tips_easter_eggs": "Realize sequências de combates especiais para desbloquear imagens conceituais e lendas nórdicas adicionais."
+    },
+    {
+        "title": "X-Men: Next Dimension",
+        "genre": "Luta / Ação",
+        "year": 2002,
+        "developer": "Spectacular Games",
+        "publisher": "Activision",
+        "rating": 50,
+        "description": "Um jogo de luta ambientado no universo dos X-Men que não alcançou o entusiasmo esperado pelos fãs dos quadrinhos devido à falta de inovação.",
+        "characters": "Ciclope, Tempestade, Wolverine e outros mutantes icônicos",
+        "gameplay_mechanics": "Combates com combos e ataques especiais, disputados em arenas variadas.",
+        "trivia": "Apesar do potencial do universo X-Men, críticas à execução e ao balanceamento prejudicaram o título.",
+        "tips_easter_eggs": "Complete desafios no modo arcade para desbloquear personagens e cenários alternativos."
+    },
+    {
+        "title": "The Punisher",
+        "genre": "Ação / Aventura",
+        "year": 2004,
+        "developer": "Venom Games",
+        "publisher": "Crave Entertainment",
+        "rating": 48,
+        "description": "Inspirado no anti-herói da Marvel, o jogo tenta reproduzir a violência e a justiça implacável de The Punisher, mas acaba falhando em sua proposta interativa.",
+        "characters": "The Punisher, gangsters e diversos vilões urbanos",
+        "gameplay_mechanics": "Combates intensos, exploração de ambientes urbanos e missões repletas de ação violenta.",
+        "trivia": "O jogo teve dificuldades em equilibrar narrativa e jogabilidade, resultando em críticas desfavoráveis.",
+        "tips_easter_eggs": "Colete itens espalhados pelos níveis para acessar cenas e modos não revelados na campanha principal."
+    },
+    {
+        "title": "God Hand",
+        "genre": "Beat 'em up / Ação",
+        "year": 2006,
+        "developer": "Clover Studio",
+        "publisher": "Capcom",
+        "rating": 55,
+        "description": "Um título de ação com combates exagerados e humor surreal que, apesar de inovador, não alcançou sucesso comercial imediato.",
+        "characters": "Herói sem nome, vilões carismáticos e uma variedade de inimigos bizarros",
+        "gameplay_mechanics": "Combates corpo a corpo com combos elaborados e habilidades especiais únicas que exigem precisão.",
+        "trivia": "Embora hoje seja considerado cult, seu lançamento foi marcado por vendas decepcionantes e recepção morna.",
+        "tips_easter_eggs": "Experimente sequências específicas de ataques para desbloquear modos de jogo alternativos e cenas bônus."
+    },
+    {
+        "title": "Urban Reign",
+        "genre": "Beat 'em up / Luta",
+        "year": 2005,
+        "developer": "Namco",
+        "publisher": "Namco",
+        "rating": 52,
+        "description": "Um jogo de lutas urbano com cenários reais e intensas batalhas de rua, mas que acabou passando despercebido perante títulos de maior visibilidade.",
+        "characters": "Diversos combatentes de rua e membros de gangues",
+        "gameplay_mechanics": "Combates intensos com uso de combos, armas improvisadas e arenas urbanas dinâmicas.",
+        "trivia": "Embora tenha conquistado alguns fãs pela autenticidade, críticas à repetitividade comprometeram seu sucesso.",
+        "tips_easter_eggs": "Investigue áreas secundárias dos mapas para encontrar batalhas bônus e referências ocultas."
+    },
+    {
+        "title": "The Warriors",
+        "genre": "Ação / Beat 'em up",
+        "year": 2005,
+        "developer": "Rockstar Toronto",
+        "publisher": "Rockstar Games",
+        "rating": 50,
+        "description": "Baseado no filme cult, este jogo de ação tenta levar a intensidade das brigas de gangues às ruas, mas falha em capturar a essência do original.",
+        "characters": "Membros da gangue The Warriors e diversos antagonistas urbanos",
+        "gameplay_mechanics": "Combates de rua com toques de estratégia tática e exploração de territórios urbanos.",
+        "trivia": "Embora associado a um filme popular, o jogo não conseguiu se destacar por apresentar mecânicas pouco refinadas.",
+        "tips_easter_eggs": "Explorar becos e esconderijos pode revelar referências ao filme e desafios secretos."
+    }
 ]
 
 # Criar e configurar o DataFrame
